@@ -1,0 +1,20 @@
+C:\Users\Administrator\Downloads\TechnicalTest (1)\bin\Debug\Interview.dll
+C:\Users\Administrator\Downloads\TechnicalTest (1)\bin\Debug\Interview.pdb
+C:\Users\Administrator\Downloads\TechnicalTest (1)\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Administrator\Downloads\TechnicalTest (1)\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\Downloads\TechnicalTest (1)\bin\Debug\nunit.framework.xml
+C:\Users\Administrator\Downloads\TechnicalTest (1)\obj\Debug\TechTest.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\TechnicalTest (1)\obj\Debug\TechTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\TechnicalTest (1)\obj\Debug\TechTest.csproj.CopyComplete
+C:\Users\Administrator\Downloads\TechnicalTest (1)\obj\Debug\Interview.dll
+C:\Users\Administrator\Downloads\TechnicalTest (1)\obj\Debug\Interview.pdb
+C:\Users\Administrator\Downloads\TechnicalTestNathan\bin\Debug\Interview.dll
+C:\Users\Administrator\Downloads\TechnicalTestNathan\bin\Debug\Interview.pdb
+C:\Users\Administrator\Downloads\TechnicalTestNathan\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Administrator\Downloads\TechnicalTestNathan\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\Downloads\TechnicalTestNathan\bin\Debug\nunit.framework.xml
+C:\Users\Administrator\Downloads\TechnicalTestNathan\obj\Debug\TechTest.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\TechnicalTestNathan\obj\Debug\TechTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\TechnicalTestNathan\obj\Debug\TechTest.csproj.CopyComplete
+C:\Users\Administrator\Downloads\TechnicalTestNathan\obj\Debug\Interview.dll
+C:\Users\Administrator\Downloads\TechnicalTestNathan\obj\Debug\Interview.pdb
